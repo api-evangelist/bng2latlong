@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bng2latlon
 name: bng2latlong
 description: "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude"
 url: https://www.getthedata.com/bng2latlong
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
