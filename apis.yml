@@ -39,7 +39,6 @@ apis:
   - name: bng2latlong
     description: "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude"
     humanURL: https://www.getthedata.com/bng2latlong
-    baseURL: https://www.getthedata.com/bng2latlong
     tags:
       - Geocoding
     properties:
